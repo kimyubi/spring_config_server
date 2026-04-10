@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}e88e3a042e6a6715844e87bd7b2158771a445e4ab74b7c2d18f861069af3cdc6'
+    password: '{cipher}f89c2529b9737ffbfe3d3ac8f51f254a34098de76e166790f62464296c5eb2b1'
 
 token:
   secret: mysecret-key-for-jwt-generation-1234567890
