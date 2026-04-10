@@ -6,5 +6,5 @@ spring:
     password: '{cipher}f89c2529b9737ffbfe3d3ac8f51f254a34098de76e166790f62464296c5eb2b1'
 
 token:
-  secret: mysecret-key-for-jwt-generation-1234567890
+  secret: '{cipher}bfa72d514c08fcc5bd573aae6c5411d5ffed75a1bbfdc30367590b1337502f0b8d63f3453d0f4b5f936ccc852b6f9091889339f42884dbe6b981bcbca5a7bd72'
   expiration: 864000000 # 10 days in milliseconds
